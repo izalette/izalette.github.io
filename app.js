@@ -1,5 +1,5 @@
 const apiUrl =
-  "https://v5.bvg.transport.rest/stops/900000100516/departures?duration=30";
+  "https://v5.bvg.transport.rest/stops/900000100516/departures?duration=80";
   
 // 900000100014
 const nycDestinations = [] // ["Leopoldplatz", "Leopoldplatz", "Stadtmitte"]; // Add NYC bus destinations
