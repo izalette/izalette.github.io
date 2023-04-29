@@ -26,7 +26,7 @@ function displayBusTimes(busTimes) {
 
   let displayed = 0;
   busTimes.forEach((bus) => {
-    if (displayed === 5) {
+    if (displayed === 4) {
         return;
     }
     const currentTime = new Date();
